@@ -7,13 +7,13 @@ This project analyzes patient satisfaction data as part of the broader "Patients
 
 - `PublicHealthExperience/`
   - `analysis/`
-    - `Data-Preparation.ipynb`
-    - `EDA.ipynb`
-    - `Visualization.ipynb`
-    - `cb_2018_us_state_500k/`
+    - `data-preparation.ipynb`
+    - `eda.ipynb`
+    - `visualization.ipynb`
   - `data/`
     - `processed/`
     - `raw/`
+      - `cb_2018_us_state_500k/`
   - `reports/`
     - `Final Report.docx`
     - `Project Presentation.pptx`
