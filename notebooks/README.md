@@ -4,14 +4,14 @@ This directory contains the Jupyter notebooks used for data preparation, explora
 
 ## Notebooks
 
-1. **Data-Preparation.ipynb**
+1. **01_data_preparation.ipynb**
    - **Description**: This notebook handles the data cleaning and preparation steps, including renaming columns, handling missing data, and adding region information.
    - **Key Steps**:
      - Import Datasets
      - Data Preparation
      - Export Processed Data
 
-2. **EDA.ipynb**
+2. **02_eda.ipynb**
    - **Description**: This notebook performs exploratory data analysis to uncover patterns and insights in the data.
    - **Key Steps**:
      - Basic Data Information
@@ -19,15 +19,12 @@ This directory contains the Jupyter notebooks used for data preparation, explora
      - Information by Division
      - Information by State
 
-3. **Visualization.ipynb**
+3. **03_visualization.ipynb**
    - **Description**: This notebook generates visualizations to illustrate the findings from the analysis.
    - **Key Steps**:
      - Correlations
      - Comparison by Regions
      - Map Visualization by States
-
-4. **cb_2018_us_state_500k/**
-   - **Description**: This folder contains files necessary for generating US map visualizations.
 
 ## Kaggle
 
