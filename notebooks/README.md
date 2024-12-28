@@ -26,6 +26,19 @@ This directory contains the Jupyter notebooks used for data preparation, explora
      - Comparison by Regions
      - Map Visualization by States
 
+## Scripts
+
+`scripts/`: Directory for Python scripts. These scripts are used in the Jupyter Notebooks.
+- `aggregate_data.py`: Functions for aggregating and calculating statistics.
+- `calculate_data.py`: Functions for calculating data.
+- `clean_data.py`: Functions for cleaning data.
+- `load_data.py`: Functions for loading data.
+- `map_visualization.py`: Functions for map visualizations.
+- `merge_data.py`: Functions for merging data.
+- `plot_functions.py`: Functions for plotting different types of visualizations.
+- `save_data.py`: Functions for saving data.
+- `transform_data.py`: Functions for transforming data.
+
 ## Kaggle
 
 The entire code, including all notebooks and datasets, is also available on Kaggle. You can view and run the notebooks interactively on Kaggle:
