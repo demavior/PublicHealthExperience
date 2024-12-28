@@ -21,6 +21,6 @@ def load_state_region_data(file_path):
     state_region_df = pd.concat([state_region_df, us_territories], ignore_index=True)
     return state_region_df
 
-def load_csv_data(file_path):
+def load_csv_data(file_path, index_col=None):
     """Load a CSV data file."""
-    return pd.read_csv(file_path)
+    return pd.read_csv(file_path, index_col=index_col)
