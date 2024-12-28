@@ -5,7 +5,7 @@ This directory contains the raw data files used in the Patient Satisfaction Anal
 ## Files
 
 1. **HCAHPS-Hospital.csv**
-   - **Description**: This file contains data from the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey, which measures patients' perspectives on hospital care.
+   - **Description**: This file contains data from the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey, which measures patients' perspectives on hospital care. This CSV file contains 447,512 raws and 23 columns.
    - **Source**: [HCAHPS-Hospital.csv](https://www.kaggle.com/datasets/demavior/patient-satisfaction-ds?select=HCAHPS-Hospital.csv)
 
 2. **states.csv**
