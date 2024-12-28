@@ -22,7 +22,8 @@ This project analyzes patient satisfaction data as part of the broader "Patients
 
 ## Datasets
 The raw datasets used in this repository can be found on Kaggle:
-[Patient Satisfaction Dataset on Kaggle](https://www.kaggle.com/datasets/demavior/patient-satisfaction-ds/)
+[Patient Satisfaction Dataset on Kaggle](https://www.kaggle.com/datasets/demavior/patient-satisfaction-ds/).
+The main CSV file contains 447,512 raws and 23 columns.
 
 Processed data is available in this repository.
 
