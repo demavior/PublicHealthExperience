@@ -65,4 +65,5 @@ def rename_features(df):
         'H_RECMND': 'Recommendation'
     }
     df = df.rename(columns=rename_mappings, index=rename_mappings)
+    df.set_index('Facility ID', inplace=True)
     return df
